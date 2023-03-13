@@ -1,0 +1,24 @@
+#Variable02
+
+name1= "Abdulai"
+name2= "dave"
+name3= "bob"
+name4= "lucy"
+name5= "sam"
+
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+town1= "croydon"
+town2= "addington"
+town3= "thornton heath"
+town4= "purley"
+
+print("")
+
+print(town1)
+print(town2)
+print(town3)
+print(town4)
