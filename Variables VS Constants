@@ -1,0 +1,26 @@
+#this is a comment
+#variables vs constants
+#variables are declared in titlecase
+#CONSTANTS are declared in CAPITALS
+
+#Example of variable
+
+Team1name="speros stars"
+Team2name= "croydon kebab"
+
+#variables have a useful name
+#variables store a value(can change)
+#variables can NOT start witha number
+#e.g. 1teamname="croydon kebab"
+#tjis will cause a syntax error
+
+#variables cannot have a space in the name 
+#e.g. team name="croydon kebab"
+#this will be a syntax error
+
+#this is an example of a CONSTANT
+FREETHROW= 1
+TWOPOINTER= 2
+THREEPOINTER=3
+
+#The values in a CONSTANT do NOT change
