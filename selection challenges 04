@@ -1,0 +1,5 @@
+colour=str(input("enter your favourite colour"))
+if "fav_col" == "red" or "fav_col"=="RED":
+  print:("I like red too")
+else:
+  print: "I dont like (colour),(colour)is for losers"
